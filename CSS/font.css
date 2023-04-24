@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@600&family=Playfair+Display&display=swap');
+
+#name{
+    color: aliceblue;
+    font-family: 'Playfair Display', serif;
+    font-size: 4rem;
+}
+
+.profile-info{
+    font-size: 2rem;
+}
+
+#island-2{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1.3rem;
+}
+
+#island-3{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1.25rem;
+}
+.profile-title{
+    font-size: 1.5rem;
+    text-decoration: underline 2px;
+}
+
+#island-5{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.edu-title{
+    text-decoration: underline;
+    font-size: 1.8em;
+}
+.edu-detail{
+    font-size: 1.1em;
+}
+.institute{
+    font-size: .8em;
+}
+
+#island-6{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.all-project-title{
+    text-decoration: none;
+    font-size: 1.8em;
+}
+
+.all-project-info{
+    font-size: 1.1em;
+}
+
+
+/* island-7 */
+#island-7{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1.1em;
+}
+
+.itsa-title{
+    font-size: 1.5em;
+}
+
+#island-8{
+    font-size: 6em;
+    writing-mode: vertical-rl; 
+    transform: rotate(180deg);
+}
+
+#island-9{
+    font-size: 6em;
+    writing-mode: vertical-rl; 
+    transform: rotate(180deg);
+}
+
+#island-10{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1em;
+}
+
+#island-10 #skill-title{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1.3em;
+}
+
+#island-10 .skill ul{
+    text-transform: uppercase;
+    font-size: 1.6em;
+}
+
+#island-10 .skill li{
+    text-transform: initial;
+    font-size: 1.5em;
+}
+
+#island-10 .skill span{
+    font-size: .58em;
+}

@@ -1,0 +1,201 @@
+:root {
+    --corner-radius-island: 1.8rem;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #41454e;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+}
+
+.wrap{
+    z-index: -2;
+}
+
+.island {
+    background-color: aliceblue;
+}
+
+
+/* ISLAND - NAME*/
+#name {
+    background-color: #2a3036;
+    padding: 2rem;
+}
+
+
+/* ISLAND - 1 */
+#island-1 {
+    border-bottom-left-radius: var(--corner-radius-island);
+    border-bottom-right-radius: var(--corner-radius-island);
+}
+
+#island-1 img {
+    width: 100%;
+    height: 100%;
+    border-bottom-left-radius: var(--corner-radius-island);
+    border-bottom-right-radius: var(--corner-radius-island);
+}
+
+
+/* ISLAND - 2 */
+#island-2 {
+
+    border-bottom-left-radius: var(--corner-radius-island);
+
+    padding: 2rem;
+    margin-right: 0px;
+}
+
+
+/* ISLAND - 3 */
+#island-3 {
+    border-top-left-radius: var(--corner-radius-island);
+    border-top-right-radius: var(--corner-radius-island);
+
+    display: inline;
+
+    padding: 1.8rem;
+}
+
+.project-title {
+    margin: 0px;
+    padding: 0px;
+}
+
+.project-info {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/* ISLAND - 4 */
+#island-4 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+    align-content: normal;
+
+    border-top-left-radius: var(--corner-radius-island);
+}
+
+.btn {
+    border: 0px;
+    z-index: 10;
+    order: 0;
+    flex: 1 1 auto;
+    align-self: auto;
+    height: 100%;
+    background-color: aliceblue;
+}
+
+.contact-div-both {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-content: stretch;
+    align-items: flex-start;
+    width: 100%;
+    height: 100%;
+    border-radius: var(--corner-radius-island);
+}
+
+#island-4 .btn:hover {
+    filter: invert();
+    border-radius: var(--corner-radius-island);
+}
+
+#email {
+    border-radius: var(--corner-radius-island);
+}
+
+
+/* ISLAND - 5 */
+#island-5 {
+    border-radius: var(--corner-radius-island);
+}
+
+.edu-title {
+    margin: 1em;
+    margin-bottom: .5em;
+}
+
+.edu-detail {
+    margin: 1.6em;
+    margin-top: .5em;
+}
+
+.edu-hr {
+    width: 100%;
+    border-top: 2px dashed black;
+}
+
+/* ISLAND - 6 */
+#island-6 {
+    border-radius: var(--corner-radius-island);
+}
+
+.all-project-info {
+    margin: 1.7em;
+    margin-top: .5em;
+    margin-left: 0px;
+}
+
+.all-project-hr {
+    width: 100%;
+    border-top: 2px dashed black;
+}
+
+.project-link-container{
+    margin: 1em;
+    margin-bottom: .5rem;
+}
+
+.tictactoe-info{
+    margin-top: 0px;
+    padding: 0px;
+}
+
+/* ISLAND - 7 */
+#island-7 {
+    border-radius: var(--corner-radius-island);
+    padding: 1.5em;
+}
+
+#island-6 img {
+    width: 100%;
+}
+
+#island-10 {
+    padding: .8em;
+}
+
+
+#island-10 #skill-title {
+    margin: 0px;
+}
+
+#island-10 .skill ul {
+    margin: 0px;
+    list-style-image: url(/img/checkbox-outline.svg);
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    line-height: 1.5em;
+}
+
+#island-10 .skill li {
+    padding: 0px;
+}
+
+#island-10 .skill span {
+    list-style-image: url(/img/checkbox-outline.svg);
+}
+
