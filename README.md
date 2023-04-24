@@ -1,3 +1,3 @@
 # My-Website
 
-You can access this website here: (My-Website)[https://mukundsutar.github.io/My-Website/]
+You can access this website here: [My-Website](https://mukundsutar.github.io/My-Website/)
