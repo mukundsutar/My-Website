@@ -1,10 +1,10 @@
-a {
+#island-2 a {
   text-decoration: none;
   color: inherit;
   position: relative;
   cursor: pointer;
 }
-a.highlight::after {
+#island-2 a.highlight::after {
   content: " ";
   position: absolute;
   z-index: -1;
@@ -16,11 +16,10 @@ a.highlight::after {
   border-bottom: 1px solid tomato;
   transition: 0.4s;
 }
-a.highlight:hover::after {
+#island-2 a.highlight:hover::after {
   top: 0;
   height: 1.5em;
   background-color: rgba(255, 99, 71, 0.5);
   border-color: transparent;
 }
-
-/*# sourceMappingURL=text-hover.css.map */
+/*# sourceMappingURL=text-hover-highlight.css.map */
