@@ -1,5 +1,4 @@
 #island-5{
-    /* lvl-1 */
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
@@ -13,9 +12,6 @@
     flex: 9 1 auto;
     align-self: auto;
     
-    /* width: 270em; */
-
-    /* lvl-2 */
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
@@ -24,9 +20,7 @@
     align-items: stretch;
 }
 
-/* lvl-2 */
 
-/* all info divs */
 .edu-info{
     order: 0;
     flex: 1 1 auto;

@@ -2,10 +2,16 @@
     --corner-radius-island: 1.8rem;
 }
 
+html {
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
 body {
     margin: 0px;
     padding: 0px;
     background-color: #41454e;
+    position: absolute;
 }
 
 .container {
@@ -13,7 +19,7 @@ body {
     height: 100%;
 }
 
-.wrap{
+.wrap {
     z-index: -2;
 }
 
@@ -154,12 +160,12 @@ body {
     border-top: 2px dashed black;
 }
 
-.project-link-container{
+.project-link-container {
     margin: 1em;
     margin-bottom: .5rem;
 }
 
-.tictactoe-info{
+.tictactoe-info {
     margin-top: 0px;
     padding: 0px;
 }
@@ -198,4 +204,3 @@ body {
 #island-10 .skill span {
     list-style-image: url(/img/checkbox-outline.svg);
 }
-
