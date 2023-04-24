@@ -182,8 +182,11 @@ body {
 
 #island-10 {
     padding: .8em;
+    /* z-index: -2; */
 }
 
+.skill{
+}
 
 #island-10 #skill-title {
     margin: 0px;
