@@ -185,9 +185,6 @@ body {
     /* z-index: -2; */
 }
 
-.skill{
-}
-
 #island-10 #skill-title {
     margin: 0px;
 }
@@ -206,4 +203,12 @@ body {
 
 #island-10 .skill span {
     list-style-image: url(/img/checkbox-outline.svg);
+}
+
+li{
+    z-index: 100;
+}
+
+#island-10{
+    z-index: -1;
 }
