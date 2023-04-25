@@ -38,11 +38,14 @@
 
 .link-title1 {
   transform-origin: right center;
+  font-size: 1.95em;
 }
 
 .link-title2 {
   transform-origin: left center;
   transform: rotate(20deg);
+  
+  font-size: 1.95em;
 }
 
 .link-icon {

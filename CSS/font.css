@@ -16,7 +16,7 @@
 
 #island-2{
     font-family: 'Nunito Sans', sans-serif;
-    font-size: 1.3rem;
+    font-size: 1.5rem;
 }
 
 #island-3{
@@ -33,10 +33,10 @@
 }
 .edu-title{
     text-decoration: underline;
-    font-size: 1.8em;
+    font-size: 2.5em;
 }
 .edu-detail{
-    font-size: 1.1em;
+    font-size: 1.5em;
 }
 .institute{
     font-size: .8em;
@@ -48,11 +48,11 @@
 
 .all-project-title{
     text-decoration: none;
-    font-size: 1.8em;
+    font-size: 2em;
 }
 
 .all-project-info{
-    font-size: 1.1em;
+    font-size: 1.4em;
 }
 
 
