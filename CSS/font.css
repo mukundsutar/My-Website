@@ -24,7 +24,7 @@
     font-size: 1.25rem;
 }
 .profile-title{
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     text-decoration: underline 2px;
 }
 
@@ -33,7 +33,8 @@
 }
 .edu-title{
     text-decoration: underline;
-    font-size: 2.5em;
+    font-size: 3em;
+    line-height: 90%;
 }
 .edu-detail{
     font-size: 1.5em;
@@ -52,7 +53,7 @@
 }
 
 .all-project-info{
-    font-size: 1.4em;
+    font-size: 1.18em;
 }
 
 

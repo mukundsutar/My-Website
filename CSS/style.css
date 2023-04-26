@@ -131,13 +131,13 @@ body {
 }
 
 .edu-title {
-    margin: 1em;
+    margin: .7em;
     margin-bottom: .5em;
 }
 
 .edu-detail {
-    margin: 1.6em;
-    margin-top: .5em;
+    margin: 1.8rem;
+    margin-top: .5rem;
 }
 
 .edu-hr {
@@ -151,7 +151,7 @@ body {
 }
 
 .all-project-info {
-    margin: 1.7em;
+    margin: 2em;
     margin-top: .5em;
     margin-left: 0px;
 }
@@ -162,7 +162,7 @@ body {
 }
 
 .project-link-container {
-    margin: 1em;
+    margin: 2em;
     margin-bottom: .5rem;
 }
 
